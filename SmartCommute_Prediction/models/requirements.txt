@@ -1,0 +1,13 @@
+
+---
+
+##  2. `requirements.txt`
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
